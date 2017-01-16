@@ -6,7 +6,7 @@
 			"type" : "string",
 			"allowedValues" : [
 				"West US",
-				"East US",
+				"East US 2",
 				"West Europe",
 				"Southeast Asia"
 			],
@@ -16,7 +16,7 @@
 		},
 		"dcDNSVMName" : {
 			"type" : "string",
-			"defaultValue" : "dckar08",
+			"defaultValue" : "dcSTIG08",
 			"metadata" : {
 				"description" : "Unique DNS prefix for the DC"
 			}
@@ -64,7 +64,7 @@
 		},
 		"adminDNSVMName": {
 			"type" : "string",
-			"defaultValue" : "adminkar08",
+			"defaultValue" : "adminSTIG08",
 			"metadata" : {
 				"description" : "Unique DNS prefix for the ADMIN machine"
 			}
@@ -112,7 +112,7 @@
 		},
 		"edgeDNSVMName": {
 			"type" : "string",
-			"defaultValue" : "edgekar08",
+			"defaultValue" : "edgeSTIG08",
 			"metadata" : {
 				"description" : "Unique DNS prefix for the EDGE"
 			}
@@ -160,7 +160,7 @@
 		},
 		"syncDNSVMName": {
 			"type" : "string",
-			"defaultValue" : "synckar08",
+			"defaultValue" : "syncSTIG08",
 			"metadata" : {
 				"description" : "Unique DNS prefix for the SYNC machine"
 			}

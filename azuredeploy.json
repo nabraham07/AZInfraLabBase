@@ -6,7 +6,7 @@
 			"type" : "string",
 			"allowedValues" : [
 				"West US",
-				"East US 2",
+				"East US",
 				"West Europe",
 				"Southeast Asia"
 			],

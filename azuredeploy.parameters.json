@@ -18,7 +18,7 @@
 			"value" : "Standard_D1"
 		},
 		"domainName" : {
-			"value" : "contoso.com"
+			"value" : "MSFTSTIG.com"
 		},
 		"domainUsername" : {
 			"value" : "labAdmin"

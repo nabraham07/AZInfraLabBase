@@ -18,7 +18,7 @@
 			"value" : "Standard_D1"
 		},
 		"domainName" : {
-			"value" : "MSFTSTIG.com"
+			"value" : "MSFTSTIGSQL201702.com"
 		},
 		"domainUsername" : {
 			"value" : "labAdmin"
